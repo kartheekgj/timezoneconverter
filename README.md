@@ -2,6 +2,8 @@
 
 This Chrome extension allows you to easily convert the current time into Central European Time (CET) and U.S. time zones.
 
+# [Chrome App](https://chromewebstore.google.com/detail/time-zone-converter/jllldjnklmpimggoniopapdmfoilaejl?authuser=0&hl=en-GB)
+
 ## Getting Started
 
 ### Clone the Repository
